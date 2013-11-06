@@ -68,7 +68,6 @@
 							<option>C#</option>
 							<option>Java</option>
 							<option>VB.NET</option>
-							<option></option>
 						</select>
 					</div>
 					<div class="form-group">
@@ -95,7 +94,8 @@
 </div>
 <!-- /Bottom Nav -->
 <script src="/plugins/magicsuggest/magicsuggest-1.3.0-min.js" type="text/javascript"></script>
-{{ scriptLink('/plugins/sceditor/jquery.sceditor.bbcode.min.js', {type: 'text/javascript'}) }}
+{{ scriptLink('/plugins/ckeditor/ckeditor.js', {type: 'text/javascript'}) }}
+{{ scriptLink('/plugins/ckeditor/adapters/jquery.js', {type: 'text/javascript'}) }}
 <script>
 var _code = $('textarea#code');
 var _blog = $('textarea#blog');
@@ -107,12 +107,7 @@ var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
 	theme: 'base16-dark'
 });
 
-_blogEditor = _blog.sceditor({
-	plugins: "bbcode",
-	colors: null,
-	width: "100%",
-	height: "100%"
-});
+_blogEditor = _blog.ckeditor();
 
 $(document).ready(function(argument) {
 	$("html").niceScroll();
@@ -125,10 +120,8 @@ $(document).ready(function(argument) {
 
 	window.prettyPrint && prettyPrint();
 	$('button#postIt').click(function() {
-		$('#hdnCode').val(editor.getValue());
-		$('#hdnBlog').val(
-			$('.sceditor-container iframe').contents().find('body').html()
-			);
+		$('input#hdnCode').val(editor.getValue());
+		$('input#hdnBlog').val(_blog.val());
 		var title = 'Yet another codeblog post';
 		if (title = prompt("Mind a 'codeblog post title'")) {
 			$('input#title').val(title);
