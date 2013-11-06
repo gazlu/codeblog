@@ -33,5 +33,6 @@
       {{ yield() }}
   </body>
   {{ scriptLink('/plugins/nicescroll/jquery.nicescroll.min.js', {type: 'text/javascript'}) }}
+  {{ scriptLink('/plugins/nicescroll/jquery.nicescroll.plus.js', {type: 'text/javascript'}) }}
   {{ scriptLink('/js/bootstrap.min.js', {type: 'text/javascript'}) }}
 </html>

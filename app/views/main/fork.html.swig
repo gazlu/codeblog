@@ -102,13 +102,14 @@ var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
 _blogEditor = _blog.ckeditor();
 
 $(document).ready(function(argument) {
+	$("html").niceScroll({styler:"fb",cursorcolor:"#000"});
+	$("div#CodeMirror").niceScroll({styler:"fb",cursorcolor:"#000"});
+
 	$('select#language').val('{{ post.language }}');
 	$('select#framework').val('{{ post.framework }}');
-	$("html").niceScroll();
-	$("div#CodeMirror").niceScroll();
-	_blog.niceScroll();
+	_blog.niceScroll({styler:"fb",cursorcolor:"#000"});
 	$('#tags').magicSuggest({
-		data: 'Snippet,bootstrap,nodejs,angularjs,ko,Geddy',
+		data: JSON.parse('{{ post.tags|raw }}'),
 		emptyText: 'Add Tags to this post'
 	}).setValue(JSON.parse('{{ post.tags|raw }}'));
 
@@ -122,5 +123,7 @@ $(document).ready(function(argument) {
 			$('form#postForm').submit();
 		};
 	});
+	$('.CodeMirror-vscrollbar').niceScroll({styler:"fb",cursorcolor:"#000"})
+	$('.CodeMirror-hscrollbar').niceScroll({styler:"fb",cursorcolor:"#000"})
 });
 </script>
