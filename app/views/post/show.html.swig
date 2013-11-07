@@ -3,7 +3,9 @@
 <div class="container boxcontainer">
 	<div class="row blogcontrols titlebox">
 		<div class="col-lg-12 bs-callout bs-callout-info" style="background: #fff">
-			<blockquote>{{ post.title }}</blockquote>
+			<blockquote>
+				{{ post.title }}
+			</blockquote>
 		</div>
 	</div>
 	<div class="row blogcontrols">
@@ -15,12 +17,14 @@
 		<div class="col-lg-12 commentbox jumbotron" style="display: none;">
 			{{ post.blog }}
 		</div>
-		<div class="col-lg-6 editbox">
-			<p>{{ post.blog|raw }}</p>
+		<div class="col-lg-6 editbox" style="color:#FFF">
+			<p>
+				{{ post.blog|raw }}
+			</p>
 		</div>
 	</div>
 	<div class="row blogcontrols navbar-fixed-bottom">
-		<button type="button" onclick="_toggleBoxes()" class="btn btn-default col-lg-12">
+		<button type="button" onclick="ShowPost._toggleBoxes()" class="btn btn-default col-lg-12">
 			<span class="glyphicon glyphicon-comment">
 			</span>
 			Leave a comment!
@@ -37,27 +41,33 @@
 <script src="/plugins/code-prettify/prettify.js">
 </script>
 <script type="text/javascript">
-	var _toggleBoxes = function() {
+	var ShowPost = {
+		_toggleBoxes: function() {
 			$('div.editbox').toggle("slow");
 			$('div.commentbox').toggle("slow");
 			$('div.appnav').toggle();
 			$('div.titlebox').toggle();
-		};
+		},
 
-	var _postComment = function() {
-			$.post('/savecomment', $('form#frmComment').serialize(), function (resp) {
-				$.get('/post/comments/{{ post.id }}', function(response) {
-					$('div.commentbox').html(response);
-				});
-				console.log(resp);
+		_commentBox: function() {
+			$.get('/post/comments/{{ post.id }}', function(response) {
+				$('div.commentbox').html(response);
+			});
+		},
+
+		_postComment: function() {
+			$.post('/savecomment', $('form#frmComment').serialize(), function(resp) {
+				ShowPost._commentBox();
 			});
 		}
+	};
 
 	$(document).ready(function() {
-		$("html").niceScroll();
-		$.get('/post/comments/{{ post.id }}', function(response) {
-			$('div.commentbox').html(response);
+		$("html").niceScroll({
+			styler: "fb",
+			cursorcolor: "#000"
 		});
+		ShowPost._commentBox();
 		prettyPrint();
 	})
 </script>

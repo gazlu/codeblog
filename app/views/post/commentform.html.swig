@@ -24,10 +24,10 @@
 			</label>
 		</div>
 		<div>
-			<button class="btn btn-info" type="button" onclick="_postComment()">
+			<button class="btn btn-info" type="button" onclick="ShowPost._postComment()">
 				Submit
 			</button>
-			<button class="btn btn-warning" type="button" onclick="_toggleBoxes()">
+			<button class="btn btn-warning" type="button" onclick="ShowPost._toggleBoxes()">
 				Dismiss
 			</button>
 		</div>

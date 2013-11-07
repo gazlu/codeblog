@@ -1,0 +1,1110 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_blo",
+				"_blogEditor"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Req",
+				"Request	Laravel: Request::uri()"
+			],
+			[
+				"Sess",
+				"Sess-get	Sess-get"
+			],
+			[
+				"role",
+				"rolename"
+			],
+			[
+				"lab",
+				"label	<label> with <input>"
+			],
+			[
+				"IN",
+				"Input	Laravel: Input::all()"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pl",
+				"plugBox"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"changeF",
+				"feederChangeForm"
+			],
+			[
+				"el",
+				"else	else"
+			],
+			[
+				"tabFeederLog",
+				"tabFeederLogsContents"
+			],
+			[
+				"tabFeederCo",
+				"tabFeederControlContents"
+			],
+			[
+				"tabFeedercon",
+				"tabFeederStatusContents"
+			],
+			[
+				"feeder",
+				"feederdata"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"Lod",
+				"Loading"
+			],
+			[
+				"blo",
+				"blockForm"
+			],
+			[
+				"ro",
+				"rowsQry"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"dis",
+				"iDisplayStart"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"In",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"reco",
+				"Records"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"fie",
+				"fieldTemplate"
+			],
+			[
+				"fi",
+				"fieldTemplate"
+			],
+			[
+				"Controll",
+				"controller"
+			],
+			[
+				"model",
+				"modelFields"
+			],
+			[
+				"contr",
+				"controllerFileContents"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"INP",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"Hash",
+				"Hash	Laravel: Hash::make()"
+			],
+			[
+				"Input",
+				"Input	Laravel: Input::old()"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"mess",
+				"messageTemplate"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"Inpu",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"tabl",
+				"tableEntity"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"mo",
+				"modelFileContents"
+			],
+			[
+				"mode",
+				"modelFields"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"file",
+				"file_put_contents"
+			],
+			[
+				"code",
+				"CodeGen"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"bad",
+				"resumeBadicData"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"sum",
+				"summaryArray"
+			],
+			[
+				"fp",
+				"fputs"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"_",
+				"_saveresumeform"
+			],
+			[
+				"linkedi",
+				"linkedinProfileId"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"_t",
+				"_task"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"Ta",
+				"Task"
+			],
+			[
+				"ti",
+				"title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/main/index.html.swig",
+			"settings":
+			{
+				"buffer_size": 5441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/main/fork.html.swig",
+			"settings":
+			{
+				"buffer_size": 5254,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/post/show.html.swig",
+			"settings":
+			{
+				"buffer_size": 2090,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/post/commentform.html.swig",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"GitHub: Update Gist"
+			],
+			[
+				"fo",
+				"Format Code"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Snippet: Google AJAX Libraries: Chrome Frame"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse"
+			],
+			[
+				"brow",
+				"FTPSync: Browse"
+			],
+			[
+				"br",
+				"FTPSync: Browse"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reu",
+				"Preferences: Settings - User"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"gith",
+				"FTPSync: Report issue / suggestion (Github)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"controll",
+				"Laravel Artisan: Controller: Make"
+			],
+			[
+				"bl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"jq",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"fol",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"blad",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"fold ",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"set st",
+				"Set Syntax: PHP"
+			],
+			[
+				"laravel",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"gene",
+				"Laravel Generate: Controller"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"set sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"downl",
+				"FTPSync: Download current file"
+			],
+			[
+				"re",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"ire",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"File",
+				"File: Save All"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Sushant/codeblog/codeblog/app/views/layouts/application.html.swig",
+		"/E/Sushant/codeblog/codeblog/app/views/main/index.html.swig",
+		"/E/Sushant/codeblog/codeblog/public/plugins/bootstrap-combobox/bootstrap-combobox.js",
+		"/E/Sushant/codeblog/codeblog/app/views/main/fork.html.swig",
+		"/E/Sushant/codeblog/codeblog/public/plugins/bootstrap-combobox/bootstrap-combobox.css",
+		"/E/Sushant/codeblog/codeblog/public/plugins/ckeditor/config.js",
+		"/E/Sushant/codeblog/codeblog/public/plugins/ckeditor/styles.js",
+		"/E/Sushant/codeblog/codeblog/public/plugins/magicsuggest/magicsuggest-1.3.0-min.js",
+		"/E/Sushant/codeblog/codeblog/public/plugins/bootwyswyg/bootstrap-wysiwyg.js",
+		"/E/Sushant/codeblog/codeblog/public/css/bootstrap.flat.css",
+		"/C/Users/sushantk/AppData/Local/Temp/7zO4878.tmp/index.html",
+		"/E/Sushant/codeblog/cb/public/plugins/bootwyswyg/index.css",
+		"/E/Sushant/codeblog/cb/public/plugins/magicsuggest/magicsuggest-1.3.0-min.css",
+		"/C/Users/sushantk/AppData/Local/Temp/7zOB675.tmp/index.css",
+		"/E/Sushant/codeblog/cb/public/plugins/nicedit/nicEdit.js",
+		"/E/Sushant/codeblog/cb/app/views/layouts/application.html.swig",
+		"/E/Sushant/codeblog/cb/public/css/bootstrap.flat.css",
+		"/C/Users/sushantk/AppData/Local/Temp/7zOCAAD.tmp/full.html",
+		"/C/Users/sushantk/AppData/Local/Temp/7zOAF50.tmp/demo01.html",
+		"/C/Users/sushantk/AppData/Local/Temp/7zO1C4.tmp/demo02.html",
+		"/E/Sushant/codeblog/cb/app/views/layouts/errors.html.swig",
+		"/E/Sushant/codeblog/cb/app/controllers/main.js",
+		"/E/Sushant/codeblog/cb/app/views/main/posts.html.swig",
+		"/E/Sushant/codeblog/cb/config/router.js",
+		"/E/Sushant/codeblog/cb/app/views/main/post.html.swig",
+		"/E/Sushant/codeblog/cb/app/controllers/application.js",
+		"/E/Sushant/codeblog/codepart/databases/contact.nosql",
+		"/C/Users/sushantk/AppData/Local/Temp/7zO1D5A.tmp/content.js",
+		"/C/Users/sushantk/AppData/Local/Temp/7zO2110.tmp/_layout.html",
+		"/E/Sushant/codeblog/cb/app/views/main/search.html.swig",
+		"/E/Sushant/codeblog/cb/public/css/style.css",
+		"/E/Sushant/codeblog/cb/app/views/main/index.html.swig",
+		"/E/Sushant/codeblog/demo/app/views/layouts/application.html.swig",
+		"/E/PSWork/Projects/Snippets/CodeBlog/Content/main.css",
+		"/E/Sushant/codeblog/cb/config/development.js",
+		"/C/wamp/www/bootstrap3/examples/grid/index.html",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Feederdata/index.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Userfeeder/index.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/UserfeederController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/UserroleController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/ViewController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/ViewroleController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/LookupController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/RoleController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/StateController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/SubdivisionController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/TrashController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/ChangeController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/CityController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/CountryController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/DashboardController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/DivisionController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/FeederController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/FeederdataController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/LookupcategoryController.php",
+		"/C/wamp/www/arbu/__.htaccess",
+		"/C/wamp/www/arbu/ftpsync.settings",
+		"/C/Users/sushantk/Documents/dumps/Dump20131019-1.sql",
+		"/E/Nitor/US Projects/enforme/Code/Source/n4m.AmsNew/EntityDataReader.cs",
+		"/C/Users/sushantk/Documents/dumps/Dump20130410.sql",
+		"/C/Users/sushantk/Documents/dumps/live-lightDump20131017.sql",
+		"/E/PSWork/MVC/livelight/laravel/ftpsync.settings",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/HomeController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/routes.php",
+		"/E/PSWork/MVC/livelight/laravel/app/config/app.php",
+		"/E/PSWork/MVC/livelight/laravel/server.php",
+		"/E/PSWork/MVC/livelight/laravel/bootstrap/paths.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Dashboard/logs.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Feeder/rights.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/start/global.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/ErrorController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/filters.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/layouts/shared/sidebar.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/AuthController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/auth/denied.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/auth/index.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/UserController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/controllers/AppController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Dashboard/status.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Userrole/index.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Dashboard/index.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Dashboard/control.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/View/index.blade.php",
+		"/C/wamp/www/arbu/application/config/database.php",
+		"/C/wamp/www/arbu/application/config/config.php",
+		"/C/wamp/www/arbu/index.php",
+		"/C/wamp/www/arbu/application/controllers/register.php",
+		"/E/PSWork/MVC/real-laravel/public/js/app/core.js",
+		"/E/PSWork/MVC/livelight/laravel/composer.json",
+		"/E/PSWork/MVC/livelight/laravel/app/start/local.php",
+		"/E/PSWork/MVC/livelight/laravel/app/models/feeder.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/Feeder/index.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/common/HtmlUtils.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/layouts/scaffold.blade.php",
+		"/E/PSWork/MVC/livelight/laravel/app/commands/CodeGenView.php",
+		"/E/PSWork/MVC/livelight/laravel/app/start/artisan.php",
+		"/E/PSWork/MVC/livelight/laravel/app/commands/CodeGenController.php",
+		"/E/PSWork/MVC/livelight/laravel/app/commands/CodeGenModel.php",
+		"/E/PSWork/MVC/livelight/laravel/app/views/shared/feederchange.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/views/contact.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/views/layouts/scaffold.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/views/Tasks/index.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/models/trash.php",
+		"/E/PSWork/MVC/reallaravel/app/routes.php",
+		"/E/PSWork/MVC/reallaravel/app/controllers/HomeController.php",
+		"/E/PSWork/MVC/reallaravel/app/views/layouts/shared/topnav.blade.php",
+		"/C/wamp/www/modern-business/contact.php",
+		"/C/Users/sushantk/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/PSWork/MVC/reallaravel/app/controllers/TrashController.php",
+		"/E/PSWork/MVC/reallaravel/app/commands/stubs/controllertemp.txt",
+		"/E/PSWork/MVC/reallaravel/app/views/hello.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/controllers/UsersController.php",
+		"/E/PSWork/MVC/reallaravel/app/views/shared/smartgrid.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/views/shared/smartgridrows.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/views/auth/index.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/filters.php",
+		"/E/PSWork/MVC/reallaravel/app/controllers/AuthController.php",
+		"/E/PSWork/MVC/reallaravel/app/controllers/TasksController.php",
+		"/E/PSWork/MVC/reallaravel/app/views/layouts/loginlayout.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/common/HtmlUtils.php",
+		"/E/PSWork/MVC/reallaravel/app/controllers/AppController.php",
+		"/E/PSWork/MVC/reallaravel/app/start/artisan.php",
+		"/E/PSWork/MVC/reallaravel/app/start/global.php",
+		"/E/PSWork/MVC/livelight/laravel/public/css/flaty.css",
+		"/E/PSWork/MVC/reallaravel/app/models/BaseEntity.php",
+		"/E/PSWork/MVC/reallaravel/app/models/tasks.php",
+		"/E/PSWork/MVC/reallaravel/app/views/layouts/shared/footer.blade.php",
+		"/E/PSWork/MVC/reallaravel/app/config/database.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\PSWork\\MVC\\livelight\\laravel\\app\\config",
+			"E:\\PSWork\\MVC\\livelight\\laravel\\app",
+			"E:\\PSWork\\MVC\\livelight\\laravel\\app\\config",
+			"E:\\PSWork\\MVC\\livelight\\laravel\\app\\controllers",
+			"C:\\wamp\\www\\arbu",
+			"E:\\PSWork\\MVC\\livelight\\laravel\\app\\controllers",
+			"E:\\PSWork\\MVC\\livelight\\laravel",
+			"E:\\PSWork\\MVC\\livelight\\laravel\\app",
+			"C:\\wamp\\www\\livecrm"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" =",
+			"$.get('/post/comments/{{ post.id }}', function(response) {\n			$('div.commentbox').html(response);\n		});",
+			"niceScroll()",
+			".niceScroll()",
+			"}} {{",
+			"cfg.wi",
+			"cfg",
+			"ms.container.w",
+			"ms.container",
+			"width",
+			"height",
+			".wysiwyg(",
+			"<script",
+			"nicEdit-main",
+			"\"../js",
+			"images",
+			"href=\"#\"",
+			">\n",
+			".container",
+			".header h1",
+			"=\"span",
+			"theme",
+			"-fluid",
+			"span3",
+			"insert",
+			"users",
+			"rout",
+			"missing",
+			"404",
+			"$this->beforeFilter('webadmin');",
+			"			$this->gridModel ",
+			"			$this->gridModel",
+			"_validateControl",
+			"display_errors",
+			"error",
+			"remote",
+			"validate",
+			"person",
+			"<li>",
+			"ul",
+			"MakeItNide",
+			"MeterNo",
+			"PTRatio",
+			"CTRatio",
+			"CT",
+			"faultsmslist",
+			"lat\"",
+			"lat",
+			"long",
+			"feedername",
+			"description",
+			"CodeGenCommand",
+			"PT",
+			"type=\"number\" ",
+			"rPT",
+			"rOn",
+			"0",
+			"<div class=\"span3\">",
+			"title=\"",
+			">\n",
+			"=\"assets/",
+			"=\"css",
+			"src=\"js",
+			"please",
+			"tabFeederControlContents",
+			"nice",
+			"$(\".nice-scroll\").getNiceScroll().resize()",
+			"<code>021.344</code>",
+			"deemer",
+			"Deemer",
+			"deemer",
+			"Deemer",
+			"deemer",
+			"$record",
+			"$feederdata",
+			"->yellow",
+			"->red",
+			"<div>\n			<h4>\n				<div class=\"span6 text-left\">\n					Volatge:\n				</div>\n				<div class=\"span3\">\n					<code>{{ $record->redvoltage }}</code>\n				</div>\n				<div class=\"span2 text-left\">\n					(Volts)\n				</div>\n			</h4>\n		</div>\n		<div>\n			<h4>\n				<div class=\"span6 text-left\">\n					Power Factor:\n				</div>\n				<div class=\"span3\">\n					<code>221.344</code>\n				</div>\n				<div class=\"span2 text-left\">\n					(Amps)\n				</div>\n			</h4>\n		</div>\n		<div>\n			<h4>\n				<div class=\"span6 text-left\">\n					Frequency:\n				</div>\n				<div class=\"span3\">\n					<code>221.344</code>\n				</div>\n				<div class=\"span2 text-left\">\n					(Hz)\n				</div>\n			</h4>\n		</div>\n		<div>\n			<h4>\n				<div class=\"span6 text-left\">\n					Active Power:\n				</div>\n				<div class=\"span3\">\n					<code>221.344</code>\n				</div>\n				<div class=\"span2 text-left\">\n					(KW)\n				</div>\n			</h4>\n		</div>\n		<div>\n			<h4>\n				<div class=\"span6 text-left\">\n					Reactive Power:\n				</div>\n				<div class=\"span3\">\n					<code>221.344</code>\n				</div>\n				<div class=\"span2 text-left\">\n					(KVAR)\n				</div>\n			</h4>\n		</div>\n		<div>\n			<h4>\n				<div class=\"span6 text-left\">\n					RMS Power:\n				</div>\n				<div class=\"span3\">\n					<code>221.344</code>\n				</div>\n				<div class=\"span2 text-left\">\n					(KW)\n				</div>\n			</h4>\n		</div>\n		<div>\n			<h4>\n				<div class=\"span6 text-left\">\n					Dimming:\n				</div>\n				<div class=\"span3\">\n					<code>021.344</code>\n				</div>\n				<div class=\"span2 text-left\">\n					(%)\n				</div>\n			</h4>\n		</div>",
+			"<code>221.344</code>",
+			"class=\"span3\">\ndefault",
+			"assets/",
+			"class=\"span3\">\n					<code>",
+			"class=\"span2 text-right\">\n				 	(",
+			"<div class=\"span4\">\n					<code>",
+			"class=\"span2 text-right\">\n				 	(",
+			"<div class=\"span4\">\n		<h2",
+			"class=\"span4\"",
+			"<div class=\"span2\">",
+			"<div class=\"span6\">",
+			" class=\"text-center\"",
+			"<h4>\n				<div class=\"span4\">",
+			"<div class=\"span4\">\n				 	(",
+			"<div class=\"text-center\"><h4><code>221.344</code></h4></div>",
+			"span3",
+			"class=\"span3\"",
+			"<pre>221.344</pre>",
+			"221.344",
+			"\"span3\"",
+			"</h5>",
+			"<div class=\"row-fluid\"><h5 class=\"span\">",
+			"<div class=\"text-center\"><pre><h3>221.344</h3></pre></div>",
+			"<pre>221.344</pre>",
+			"<div class=\"text-center\"><h3></h3></div>",
+			"<div class=\"row-fluid\"></div>",
+			"<h5 class=\"span5\">Status</h5><div class=\"span2\"></div>",
+			"span3 well",
+			" class=\"span5\"",
+			"</h5>",
+			"<div class=\"span2\"></div>",
+			"<div class=\"span4 well\">",
+			"div class=\"span1\"",
+			"h5 class=\"span3\"",
+			"<div class=\"row-fluid\"><h5 class=\"span3\">Dimming Percentage</h5></div>",
+			"div class=\"span2\"",
+			"<h5 class=\"span2\"",
+			"<h5 ",
+			"<h5>",
+			"</h5>\n		<hr>",
+			"<hr>\n		<h5>",
+			"h4>",
+			"<hr>",
+			">\n",
+			"<hr>",
+			"h2",
+			"GetCurrentFeeder())",
+			"$record",
+			"$feederId = Session::get('livefeeder');\n			$record = $this->gridModel['rowEloq']\n							->orderby('feederdata.id', 'desc')\n							->where('id', $feederId)\n							->first();",
+			"<div class=\"clearfix\"></div>\n								<br/>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"javascript:;\"",
+			"=\"col-lg-",
+			"col-lg-3",
+			"			$this->beforeFilter('webadmin');",
+			"$this->beforeFilter('webadmin');\n			$this->gridModel ",
+			"$this->beforeFilter('webadmin');\n			$this->gridModel",
+			"=\"/assets/",
+			"=\"/css",
+			"src=\"/js",
+			"h5>",
+			",//->get(),",
+			"input-medium",
+			"",
+			"DB::select",
+			"DB:select",
+			"public static function ",
+			"input-large",
+			"<a href=\"#",
+			"href=\"#",
+			"src=\"/img",
+			"src=\"/assets",
+			"href=\"/css",
+			"href=\"/assets",
+			"",
+			"	",
+			";",
+			"; ?>",
+			" ;?>",
+			"\"<?php echo base_url();?>assets/templates/tiles/bootstrap/",
+			"</span>\n</li>",
+			"</li>",
+			"_baseUrl",
+			"",
+			"jQuery",
+			"_saveResumeForm",
+			"url: _baseurl+'",
+			"var linkedinId = linkedinProfileId;",
+			"image: _baseUrl+'",
+			"#view",
+			"#resume",
+			"div.templateSlider .ca",
+			"resume/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/main/index.html.swig",
+					"settings":
+					{
+						"buffer_size": 5441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5441,
+								5441
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1840.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/main/fork.html.swig",
+					"settings":
+					{
+						"buffer_size": 5254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5133,
+								5165
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1361.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/post/show.html.swig",
+					"settings":
+					{
+						"buffer_size": 2090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1496,
+								1496
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 424.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/post/commentform.html.swig",
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								841,
+								841
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 377.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 131.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true
+}
